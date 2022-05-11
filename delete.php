@@ -2,7 +2,7 @@
 
     /********************************************
     File Name    : update.php
-    Description  : Update Record
+    Description  : Delete Record
     Created By   : Shuvadeep Podder
     Created On   : 10-May-2022
     ********************************************/
